@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+
+
+
+
+Question 3 
+
+a. 	for f in *.txt
+	       mv "$f" "new_$f"
+
+b. 	for f in *.bak
+	       rm "$f"
+
+c. 	for f in *.txt
+	do
+      	 	lines=($(wc "-l" < "$f"))
+       		if ((${lines} >= 10)); then mv "$f" "long_$f"
+       		else mv "$f" "short_$f"
+       		fi
+	done
