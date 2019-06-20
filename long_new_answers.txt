@@ -1,3 +1,12 @@
+Question 1 - Sublime Text 3
+a. Cutomizable
+Sublime allows you to work in multiple languages without requiring to instal most of them. This means I can have multiple files open in different windows and work on many of them at the same time without switching IDEs or compilers. I usually like working on two different tabs hen I ma creating a website and it allows me to switch between HTML and CSS perfectly without and errors. It is highly customizable and it allows to customize almost everything, depending on how you like your environment setup you can make it function in any order. Using JSON files you can either do it yourself or download it form the marketplace. The marketplace allows you to look for more than just cosmetic changes. It allows for performance or even technical changes that can make sublime perform differently. If you know what you want, sublime probably can provide it to you.
+
+b. Multiple Selections 
+Sublime allows you to have multiple cursors at any given moment. When repetitive tasks become obvious it is best to use multiple cursors to type them all out the same time reducing the time it took to write them . It's always a nice idea to keep in mind that sublime has multiple cursors that allow it to edit lines which may be tedious. Multiple selection cannot be only used to edit things, but they can also be used to highlight or do anything you could have done with a normal cursor. Another compliment of multiple selection is that while not recommended, you can use it for refactoring, as long as you don't use complex files, as you can use multiple selections to refactor which is not the best choice. 
+
+c. Fuzzy Search 
+Fuzzy search is available in many compilers but I find it very helpful in Sublime. Sublime allows fuzzy search two key areas; the market place and find. Fuzzy strings allow the user to search for strings or objects that have names that are similar to the one the user inputs. This allows the user to look for all similar instances and look of things they may not completely remember. In the marketplace sublime allows the user to look up all packages and other things that are similar to the name they want. This way you can look for packages and packages similar to them without completely remembering their names, it's an excellent feature for people who forget easily - which is me.  Fuzzy strings are also available in the find bar, this means you can also look for similar occurrences making your life much easier when you run into naming problems. 
 
 
 
@@ -8,8 +17,7 @@
 
 
 
-
-Question 3 
+Question 2
 
 a. 	for f in *.txt
 	       mv "$f" "new_$f"
